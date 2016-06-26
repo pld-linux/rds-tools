@@ -1,13 +1,13 @@
 Summary:	RDS support tools
 Summary(pl.UTF-8):	Narzędzia obsługujące RDS
 Name:		rds-tools
-Version:	2.0.4
+Version:	2.0.7
 Release:	1
 License:	BSD or GPL v2
 Group:		Networking/Utilities
 # or: http://oss.oracle.com/projects/rds/files/sources/ (but sources dir is not browsable)
 Source0:	http://www.openfabrics.org/downloads/rds-tools/%{name}-%{version}.tar.gz
-# Source0-md5:	a016668f910b9f7f9c60f098a8d8c592
+# Source0-md5:	dcc6c04c044cfa70321716588a10758c
 URL:		http://oss.oracle.com/projects/rds/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
